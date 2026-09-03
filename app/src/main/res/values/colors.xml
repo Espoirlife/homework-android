@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_surface">#FEF7FF</color>
+    <color name="surface_container">#F3EDF7</color>
+    <color name="ic_launcher_background">#A47CE9</color>
+</resources>
