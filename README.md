@@ -31,7 +31,7 @@
 | 本地存储 | Room（SQLite） |
 | 导航 | Navigation Compose |
 | 扫码 | CameraX + ZXing |
-| WebDAV | OkHttp（手写 PROPFIND / PUT / MKCOL 动词，原生直连无 CORS 限制） |
+| WebDAV | OkHttp |
 | 凭据加密 | AndroidX Security（EncryptedSharedPreferences） |
 | Excel | 手写 XLSX 读写（OOXML / sharedStrings） |
 
