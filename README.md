@@ -63,8 +63,6 @@ gradlew.bat assembleRelease  # 正式包 → release-apks/hwt-v<版本号>.apk
 ./gradlew assembleRelease
 ```
 
-> 当前 Release 构建复用本机 debug keystore 签名，仅适合自用分发；如需对外正式发布，请替换为自己的签名密钥。
-
 ## 权限说明
 
 | 权限 | 用途 |
